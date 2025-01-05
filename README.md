@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hello, I'm <a href="#">Martin Quesquen</a> 👋</h1>
 </div>
-<img src="https://i.imgur.com/3tWi7vf.png">
+<img src="https://i.imgur.com/ikwDQlR.png">
 
 ## About me
 
